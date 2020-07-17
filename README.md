@@ -1,6 +1,6 @@
 # Hi there, I'm Apoorva! :wave:
 
-## Welcome to my :octocat: profile!
+## Welcome to my Github :octocat: Profile!
 
 ![Android](https://media-exp1.licdn.com/dms/image/C5116AQHZ7yGCprqihw/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=bg2TarI1W9MTj4jWhitlZ05iBSul-co7HCNcQJScMzE)
 
