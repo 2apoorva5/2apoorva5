@@ -2,10 +2,8 @@
 
 ## Welcome to my Github :octocat: Profile!
 
-![Android](https://media-exp1.licdn.com/dms/image/C5116AQHZ7yGCprqihw/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=bg2TarI1W9MTj4jWhitlZ05iBSul-co7HCNcQJScMzE)
 
-
-I'm an **Android Application Developer** having two years of experience with good command over **Firebase - Google Mobile and Web App Solutions**. I'm also a **UI/UX Designer** for mobile apps having good experience in working with **Adobe XD** along with ample knowledge of **Google Material Design Guidelines**.
+An analytical and detail oriented **Android Application Developer** and **UI/UX Designer** for mobile applications with 2+ years of experience in building, integrating, testing and conceptualizing app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions for clients.
 
 Career objective is to be able to utilize the knowledge gained in the field, in a responsible and proper manner resulting in a value add to the organization working in and reach the apex of the career in the process.
 
