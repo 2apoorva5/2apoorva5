@@ -3,9 +3,11 @@
 ## Welcome to my Github :octocat: Profile!
 
 
-An analytical and detail oriented **Android Application Developer** and **UI/UX Designer** for mobile applications with 2+ years of experience in building, integrating, testing and conceptualizing app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions for clients.
+I'm an analytical and detail oriented **Android Application Developer** and **UI/UX Designer** for mobile applications with 2+ years of experience in building, integrating, testing and conceptualizing app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions for clients.
 
-Career objective is to be able to utilize the knowledge gained in the field, in a responsible and proper manner resulting in a value add to the organization working in and reach the apex of the career in the process.
+My other skills include Business Intelligence concepts using Data Analysis which include ETL Process and Reporting using Microsoft Data Tools Suite and Power BI.
+
+My career objective is to be able to utilize the knowledge gained in the field, in a responsible and proper manner resulting in a value add to the organization working in and reach the apex of the career in the process.
 
 
 ### :point_down: Google Play Developer's Account : My Publications on Google Play Store
