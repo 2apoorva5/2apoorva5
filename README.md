@@ -18,9 +18,9 @@ My career objective is to be able to utilize the knowledge gained in the field, 
 
 ### :point_down: Google Play Developer's Account : My Publications on Google Play Store
 
-![Developer Depository](https://lh3.googleusercontent.com/ogw/ADGmqu8NgWrQa5JhxCvnEv91ICHNdKWYL4XmGucirNxr=s32-c-mo)
+![Developer Depository](https://lh3.googleusercontent.com/a-/AOh14GhIuMOs8u9r6k-hRtF74x3pqESrdDHwNGIJ_fwzGg=s96-c-rg-br100)
 
-[Developer Depository - Apps on Google Play](https://play.google.com/store/apps/developer?id=Developer+Depository)
+[Developer Depository - Apps on Google Play](https://play.google.com/store/apps/dev?id=7583195382484082484)
 
 
 ### :point_down: Direct Links to Published Apps :
@@ -33,7 +33,7 @@ My career objective is to be able to utilize the knowledge gained in the field, 
 ### Other Highlights :
 
 
-* :bust_in_silhouette: Owner at [Developer Depository](https://play.google.com/store/apps/developer?id=Developer+Depository)
+* :bust_in_silhouette: Owner at [Developer Depository](https://play.google.com/store/apps/dev?id=7583195382484082484)
 * :briefcase: I'm seeking jobs in **Android Development** Profile
 * :computer: I'm also looking to work on Freelance Android Projects
 * :speech_balloon: Ask me about **Android Development**
