@@ -3,11 +3,11 @@
 ## Welcome to my Github :octocat: Profile!
 
 
-I'm an analytical and detail oriented Android Application Developer and UI/UX Designer for mobile applications with 2+ years of experience as freelancer working with Firebase for Android and Adobe XD & Figma for UI/UX Design, along with the Google Material Design principles that helped me in building, integrating, testing and conceptualizing app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions for clients.
+I'm an analytical and detail oriented Android Application Developer and UI/UX Designer for mobile applications with 2+ years of experience working with JAVA, Kotlin, Firebase for Android, Adobe XD & Figma for UI/UX Design and many more other technologies, along with the Google Material Design principles that helped me build, integrate, test and conceptualize app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions.
 
 My other skills include Business Intelligence concepts using Data Analysis and Data Engineering which include end-to-end ETL Process using Microsoft Data Tools Suite and Microsoft Azure.
 
-My career objective is to be able to utilize the knowledge gained in the field, in a responsible and proper manner resulting in a value add to the organization working in and reach the apex of my career in the process.
+My career objective is to be able to utilize the knowledge gained, in a responsible and proper manner resulting in a value add to the organization working in and reach the apex of my career in the process.
 
 
 
@@ -33,8 +33,8 @@ My career objective is to be able to utilize the knowledge gained in the field, 
 * [Grocer Taxi Store Partner](https://play.google.com/store/apps/details?id=com.application.grocertaxistore)
 * [NOTED - Don't Bother Remembering](https://play.google.com/store/apps/details?id=com.developerdepository.noted)
 * [Mehta Dairy - Everything Dairy](https://play.google.com/store/apps/details?id=com.application.mehtadairy)
-* [SAID - Quick Audio Recording](https://play.google.com/store/apps/details?id=com.developerdepository.said)
 * [WALLIPI - FHD Wallpapers](https://play.google.com/store/apps/details?id=com.developerdepository.wallipi)
+* [SAID - Quick Audio Recording](https://play.google.com/store/apps/details?id=com.developerdepository.said)
 
 
 ### Other Highlights :
@@ -43,7 +43,6 @@ My career objective is to be able to utilize the knowledge gained in the field, 
 * :bust_in_silhouette: Owner at [Developer Depository](https://play.google.com/store/apps/dev?id=7583195382484082484)
 * :bust_in_silhouette: Co-Founder at [Grocer Taxi](https://play.google.com/store/apps/dev?id=4669572821449526349)
 * :briefcase: I'm seeking jobs in **Android Development** Profile
-* :computer: I'm also looking to work on Freelance Android Projects
 * :speech_balloon: Ask me about **Android Development**
 * :email: How to reach me : [Linked In](https://www.linkedin.com/in/2apoorva5/), [Instagram](https://www.instagram.com/2apoorva5/)
 
