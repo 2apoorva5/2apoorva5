@@ -3,7 +3,7 @@
 ## Welcome to my Github :octocat: Profile!
 
 
-I'm an analytical and detail oriented Android Application Developer and UI/UX Designer for mobile applications with 2+ years of experience working with JAVA, Kotlin, Firebase for Android, Adobe XD & Figma for UI/UX Design and many more other technologies, along with the Google Material Design principles that helped me build, integrate, test and conceptualize app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions.
+I'm an analytical and detail oriented Android Application Developer and UI/UX Designer for mobile applications with 3+ years of experience working with JAVA, Kotlin, Firebase for Android, Adobe XD & Figma for UI/UX Design and many more other technologies, along with the Google Material Design principles that helped me build, integrate, test and conceptualize app solutions with the latest technology, design theory and a large dose of creativity with the commitment to viable and easily functional app solutions.
 
 My other skills include Business Intelligence concepts using Data Analysis and Data Engineering which include end-to-end ETL Process using Microsoft Data Tools Suite and Microsoft Azure.
 
